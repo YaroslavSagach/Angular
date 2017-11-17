@@ -1,0 +1,5 @@
+2017-11-17 19:23:27
+neko flow.n  --dontlink -i C:\Users\y.sagach\Documents\AngularUdemy\Angular\ShopList\src\app\shopping-list\shopping-edit\shopping-edit.component.html -I c:/flowapps/
+For consistency, file names should be all lower case: C:/Users/y.sagach/Documents/AngularUdemy/Angular/ShopList/src/app/shopping-list/shopping-edit/shopping-edit.component.html.flow
+Could not find C:/Users/y.sagach/Documents/AngularUdemy/Angular/ShopList/src/app/shopping-list/shopping-edit/shopping-edit.component.html.flow. Use -I <path>
+
